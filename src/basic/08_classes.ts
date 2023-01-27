@@ -23,3 +23,5 @@ class Bird extends Animal {
     console.log(`${this.name} flew ${distanceInMetres}m.`);
   }
 }
+
+export {};

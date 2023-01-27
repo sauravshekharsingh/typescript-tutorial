@@ -30,3 +30,5 @@ takesPoint2D(point3D);
 // point3D = point2D; // Error: missing info
 function takesPoint3D(point: Point3D) {}
 // takesPoint3D(point2D); // Error: missing info
+
+export {};
