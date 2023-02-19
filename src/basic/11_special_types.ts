@@ -15,7 +15,7 @@ let newBool: boolean = newAny;
 // newAny.trim(); // No error
 
 // IMP: Unknown is different and safer
-// Can still accept anything in unknows
+// Can still accept anything in unknowns
 // But cannot use in an unsafe manner
 // newUnknown.trim(); // Error: cannot use any method
 
