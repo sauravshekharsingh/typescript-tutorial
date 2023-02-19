@@ -1,4 +1,4 @@
-// console.log("ENVIRONENT", process.env);
+// console.log("ENVIRONMENT", process.env);
 
 // Unable to identify 'process' and gives error
 
